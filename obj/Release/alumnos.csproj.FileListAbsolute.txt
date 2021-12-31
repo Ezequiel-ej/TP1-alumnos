@@ -1,0 +1,39 @@
+C:\Users\Eze\source\repos\alumnos\alumnos\bin\Release\alumnos.exe.config
+C:\Users\Eze\source\repos\alumnos\alumnos\bin\Release\alumnos.exe
+C:\Users\Eze\source\repos\alumnos\alumnos\bin\Release\alumnos.pdb
+C:\Users\Eze\source\repos\alumnos\alumnos\obj\Release\alumnos.csprojAssemblyReference.cache
+C:\Users\Eze\source\repos\alumnos\alumnos\obj\Release\alumnos.Properties.Resources.resources
+C:\Users\Eze\source\repos\alumnos\alumnos\obj\Release\alumnos.csproj.GenerateResource.cache
+C:\Users\Eze\source\repos\alumnos\alumnos\obj\Release\alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Eze\source\repos\alumnos\alumnos\obj\Release\alumnos.exe
+C:\Users\Eze\source\repos\alumnos\alumnos\obj\Release\alumnos.pdb
+J:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.csprojAssemblyReference.cache
+J:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.Form1.resources
+J:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.Properties.Resources.resources
+J:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.csproj.GenerateResource.cache
+J:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.csproj.CoreCompileInputs.cache
+J:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.exe
+J:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.pdb
+J:\UAI\4to cuat\poo\tp1\alumnos\alumnos\bin\Release\alumnos.exe.config
+J:\UAI\4to cuat\poo\tp1\alumnos\alumnos\bin\Release\alumnos.exe
+J:\UAI\4to cuat\poo\tp1\alumnos\alumnos\bin\Release\alumnos.pdb
+D:\UAI\4to cuat\poo\tp1\alumnos\alumnos\bin\Release\alumnos.exe.config
+D:\UAI\4to cuat\poo\tp1\alumnos\alumnos\bin\Release\alumnos.exe
+D:\UAI\4to cuat\poo\tp1\alumnos\alumnos\bin\Release\alumnos.pdb
+D:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.Form1.resources
+D:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.Properties.Resources.resources
+D:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.csproj.GenerateResource.cache
+D:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.csproj.CoreCompileInputs.cache
+D:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.exe
+D:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.pdb
+D:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.csprojAssemblyReference.cache
+C:\UAI\4to cuat\poo\tp1\alumnos\alumnos\bin\Release\alumnos.exe.config
+C:\UAI\4to cuat\poo\tp1\alumnos\alumnos\bin\Release\alumnos.exe
+C:\UAI\4to cuat\poo\tp1\alumnos\alumnos\bin\Release\alumnos.pdb
+C:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.Form1.resources
+C:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.Properties.Resources.resources
+C:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.csproj.GenerateResource.cache
+C:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.csproj.CoreCompileInputs.cache
+C:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.exe
+C:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.pdb
+C:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Release\alumnos.csproj.AssemblyReference.cache

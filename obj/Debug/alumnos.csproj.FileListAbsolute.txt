@@ -1,0 +1,10 @@
+D:\UAI\4to cuat\poo\tp1\alumnos\alumnos\bin\Debug\alumnos.exe.config
+D:\UAI\4to cuat\poo\tp1\alumnos\alumnos\bin\Debug\alumnos.exe
+D:\UAI\4to cuat\poo\tp1\alumnos\alumnos\bin\Debug\alumnos.pdb
+D:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Debug\alumnos.csprojAssemblyReference.cache
+D:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Debug\alumnos.Form1.resources
+D:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Debug\alumnos.Properties.Resources.resources
+D:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Debug\alumnos.csproj.GenerateResource.cache
+D:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Debug\alumnos.csproj.CoreCompileInputs.cache
+D:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Debug\alumnos.exe
+D:\UAI\4to cuat\poo\tp1\alumnos\alumnos\obj\Debug\alumnos.pdb
